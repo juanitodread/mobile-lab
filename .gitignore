@@ -27,3 +27,7 @@ proguard/
 
 # classpath
 .classpath
+
+# project & settings
+.project
+.settings/*
