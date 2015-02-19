@@ -19,13 +19,37 @@
 package org.juanitodread.mobile.android.geoquiz;
 
 /**
- *
+ * This class represents a Question in the application.
  *
  * @author juanitodread
- * @version $
+ * @version 1.0
  * 
  * Feb 18, 2015
  */
 public class Question {
 
+    private int question;
+
+    private boolean trueQuestion;
+
+    public Question( int question, boolean trueQuestion ) {
+        this.question = question;
+        this.trueQuestion = trueQuestion;
+    }
+
+    public int getQuestion( ) {
+        return question;
+    }
+
+    public void setQuestion( int question ) {
+        this.question = question;
+    }
+
+    public boolean isTrueQuestion( ) {
+        return trueQuestion;
+    }
+
+    public void setTrueQuestion( boolean trueQuestion ) {
+        this.trueQuestion = trueQuestion;
+    }
 }
