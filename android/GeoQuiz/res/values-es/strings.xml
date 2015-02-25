@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Constantinopla es la ciudad más grande de Turquía.</string>
+    <string name="true_button">Cierto</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Correcto!</string>
+    <string name="incorrect_toast">Incorrecto!</string>
+    <string name="action_settings">Ajustes</string>
+    
+</resources>
