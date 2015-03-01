@@ -16,7 +16,7 @@
  * limitations under the License.
  *
  */
-package org.juanitodread.mobile.android.geoquiz;
+package org.juanitodread.mobile.android.geoquiz.model;
 
 /**
  * This class represents a Question in the application.
